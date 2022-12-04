@@ -2,9 +2,6 @@ import webbrowser
 import sys
 import random
 import time
-import pyscreenshot as ImageGrab
-import numpy as np
-import cv2
 import keyboard
 import pyautogui
 
