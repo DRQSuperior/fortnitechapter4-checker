@@ -1,7 +1,4 @@
 # fortnitechapter4-checker
-Spam searches for coordinates on fortnitechapter4.com. Version of https://github.com/SirCodeAlots/fortnitechapter4-Spammer that has been heavily modified.
-<h1 align="center" id="title">fortnitechapter4 checker</h1>
-
 <p align="center"><img src="https://www.fortnitechapter4.com/favicon.ico" alt="project-image"></p>
 
 <p id="description">Spam searches for coordinates on fortnitechapter4.com. Version of https://github.com/SirCodeAlots/fortnitechapter4-Spammer that has been heavily modified.</p>
